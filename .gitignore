@@ -14,3 +14,16 @@ dist/
 # Vite / IDE files
 .vite/
 .vscode/
+
+# WordPress & OS files
+.DS_Store
+thumbs.db
+*.log
+
+# Composer dependencies
+/vendor/
+
+# Development files
+.env
+/tests/
+/node_modules/
